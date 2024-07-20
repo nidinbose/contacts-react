@@ -1,0 +1,402 @@
+.main2{
+  background-color:rgb(255, 255, 255);
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-image: url();
+}
+
+.inn2{
+
+/* padding-top: 2%; */
+background-color: rgb(241, 241, 241);
+width: 20%;
+height: 81vh;
+display: flex;
+align-items: start;
+justify-content: center;
+flex-direction: column;
+border-style: double;
+margin-left: 40%;
+margin-bottom: 7%;
+margin-top: 5%;
+border-radius: 10px;
+filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+
+}
+
+.b2 img{
+  width: 40%;
+  border-radius: 80px;
+  margin-left: 30%;
+}
+
+.b2{
+  display: block;
+  align-items: center;
+  text-align: center;
+  /* margin-left:2%; */
+  margin-top: 2%;
+  background-color:  rgb(241, 241, 241);
+  border-radius: 10px;
+  padding-top: 2%;
+  width: 11vw;
+  margin-left: 12%;
+}
+
+.b2 input{
+  width: 6.77vw;
+  margin-left: 50%;
+  margin-top:5% ;
+}
+
+
+
+.delete2 button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  width: 7vw;
+  height: 4vh;
+ 
+  color: rgb(255, 255, 255);
+  border-radius: 8px;
+  background-color: #b0bac7;
+  border: transparent;
+
+}
+.delete2{
+  display: flex;
+  column-gap: 7%;
+  margin-top: 8%;
+  margin-left: 10%;
+}
+
+.icon2 input{
+  width: 16vw;
+  height: 5vh;
+  border-radius: 17px;
+  border: transparent;
+  gap: 4%;
+  margin-top: 6%;
+  margin-left: 7%;
+  color: grey;
+}
+
+.hr{
+  height: 20vh;
+  margin-top: 2%;
+}
+.icon2 input:hover{
+  background-color: rgb(223, 225, 223);
+}
+
+/* responsive iphone */
+
+@media (min-width:1000px) and (max-width:1500px){
+
+
+
+
+
+  .main2{
+    background-color:rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url();
+  }
+  
+  .inn2{
+  
+  /* padding-top: 2%; */
+  background-color: rgb(241, 241, 241);
+  width: 25%;
+  height: 98vh;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  border-style: double;
+  margin-left: 40%;
+  margin-bottom: 7%;
+  margin-top: 5%;
+  border-radius: 10px;
+  filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+  
+  }
+  
+  .b2 img{
+    width: 80%;
+    border-radius: 80px;
+    margin-left: 43%;
+  }
+  .b2 input{
+    width: 6.77vw;
+    margin-left: 50%;
+    margin-top:5% ;
+  }
+  
+  .b2{
+    display: block;
+    align-items: center;
+    text-align: center;
+    /* margin-left:2%; */
+    margin-top: 2%;
+    background-color:  rgb(241, 241, 241);
+    border-radius: 10px;
+    padding-top: 2%;
+    width: 11vw;
+    margin-left: 12%;
+  }
+  
+  .b2 input{
+   background-color:  rgb(74, 74, 74);
+   color: white;
+  }
+  
+  
+  
+  
+  .delete2 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 7vw;
+    height: 4vh;
+   
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #b0bac7;
+    border: transparent;
+  
+  }
+  .delete2{
+    display: flex;
+    column-gap: 14%;
+    margin-top: 8%;
+    margin-left: 13%;
+  }
+  
+  .icon2 input{
+    width: 20vw;
+    height: 6vh;
+    border-radius: 17px;
+    border: transparent;
+    gap: 4%;
+    margin-top: 6%;
+    margin-left: 7%;
+    color: grey;
+  }
+  
+  .hr{
+    height: 20vh;
+    margin-top: 2%;
+  }
+  .icon2 input:hover{
+    background-color: rgb(223, 225, 223);
+  }
+}
+
+@media (min-width:500px) and (max-width:999px){
+
+  .main2{
+    background-color:rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url();
+    width: 64%;
+  }
+  
+  .inn2{
+  
+  /* padding-top: 2%; */
+  background-color: rgb(241, 241, 241);
+  width: 75%;
+  height: 98vh;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  border-style: double;
+  /* margin-left: 40%; */
+  margin-bottom: 7%;
+  margin-top: 5%;
+  border-radius: 10px;
+  filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+  
+  }
+  
+  .b2 img{
+    width: 110%;
+    border-radius: 80px;
+    margin-left: 90%;
+  }
+  .b2 input{
+    width: 12.55vw;
+    margin-left: 90%;
+    margin-top:5% ;
+  }
+  
+  .b2{
+    display: block;
+    align-items: center;
+    text-align: center;
+    /* margin-left:2%; */
+    margin-top: 2%;
+    background-color:  rgb(241, 241, 241);
+    border-radius: 10px;
+    padding-top: 2%;
+    width: 11vw;
+    margin-left: 12%;
+  }
+  
+  .b2 input{
+   background-color:  rgb(74, 74, 74);
+   color: white;
+  }
+  
+  
+  
+  
+  .delete2 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 14vw;
+    height: 5vh;
+   
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #b0bac7;
+    border: transparent;
+  
+  }
+  .delete2{
+    display: flex;
+    column-gap: 14%;
+    margin-top: 8%;
+    margin-left: 13%;
+  }
+  
+  .icon2 input{
+    width: 35vw;
+    height: 6vh;
+    border-radius: 17px;
+    border: transparent;
+    gap: 4%;
+    margin-top: 6%;
+    margin-left: 12%;
+    color: grey;
+  }
+  
+  .hr{
+    height: 20vh;
+    margin-top: 2%;
+  }
+  .icon2 input:hover{
+    background-color: rgb(223, 225, 223);
+  }
+}
+
+@media (min-width:300px) and (max-width:499px){
+  .main2{
+    background-color:rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url();
+    width: 20%;
+  }
+  
+  .inn2{
+  
+  /* padding-top: 2%; */
+  background-color: rgb(241, 241, 241);
+  width: 420%;
+  height: 98vh;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  border-style: double;
+  /* margin-left: 40%; */
+  margin-bottom: 7%;
+  margin-top: 5%;
+  border-radius: 10px;
+  filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+  
+  }
+  
+  .b2 img{
+    width: 220%;
+    border-radius: 80px;
+    margin-left: 159%;
+  }
+  .b2 input{
+    width: 14.95vw;
+    margin-left: 189%;
+    margin-top:8% ;
+  }
+  
+  .b2{
+    display: block;
+    align-items: center;
+    text-align: center;
+    /* margin-left:2%; */
+    margin-top: 2%;
+    background-color:  rgb(241, 241, 241);
+    border-radius: 10px;
+    padding-top: 2%;
+    width: 11vw;
+    margin-left: 12%;
+  }
+  
+  .b2 input{
+   background-color:  rgb(74, 74, 74);
+   color: white;
+  }
+  
+  
+  
+  
+  .delete2 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 24vw;
+    height: 5vh;
+   
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #b0bac7;
+    border: transparent;
+  
+  }
+  .delete2{
+    display: flex;
+    column-gap: 14%;
+    margin-top: 8%;
+    margin-left: 13%;
+  }
+  
+  .icon2 input{
+    width: 60vw;
+    height: 5vh;
+    border-radius: 17px;
+    border: transparent;
+    gap: 4%;
+    margin-top: 6%;
+    margin-left: 12%;
+    color: grey;
+  }
+  
+  .hr{
+    height: 20vh;
+    margin-top: 2%;
+  }
+  .icon2 input:hover{
+    background-color: rgb(223, 225, 223);
+  }
+}

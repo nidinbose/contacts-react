@@ -1,0 +1,422 @@
+.main12{
+    background-color:rgb(221, 224, 221);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url();
+  }
+  
+  .inn12{
+  
+  /* padding-top: 2%; */
+  background-color: rgb(241, 241, 241);
+  width: 20%;
+  height: 81vh;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  border-style: double;
+  margin-left: 40%;
+  margin-bottom: 7%;
+  margin-top: 5%;
+  border-radius: 10px;
+  filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+  
+  }
+  
+  .b9 img{
+    width: 70%;
+    border-radius: 80px;
+    margin-left: 30%;
+  }
+  
+  .b9{
+    display: block;
+    align-items: center;
+    text-align: center;
+    /* margin-left:2%; */
+    margin-top: 2%;
+    background-color:  rgb(241, 241, 241);
+    border-radius: 10px;
+    padding-top: 2%;
+    width: 11vw;
+    margin-left: 12%;
+  }
+  
+  .b9 input{
+   background-color:  rgb(74, 74, 74);
+   color: white;
+  }
+  
+  
+  .btn button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4vw;
+    height: 3vh;
+    margin-left: 380%;
+    margin-bottom:5% ;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: #1379f3;
+    border: transparent;
+  }
+  
+  .delete11 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 7vw;
+    height: 4vh;
+   
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #b0bac7;
+    border: transparent;
+  
+  }
+  .delete11{
+    display: flex;
+    column-gap: 7%;
+    margin-top: 8%;
+    margin-left: 10%;
+  }
+  
+  .icon10 input{
+    width: 16vw;
+    height: 5vh;
+    border-radius: 17px;
+    border: transparent;
+    gap: 4%;
+    margin-top: 6%;
+    margin-left: 9%;
+    color: grey;
+    font-size: 12px;
+    font-weight: 700;
+  }
+  
+  .hr{
+    height: 20vh;
+    margin-top: 2%;
+  }
+  .icon10 input:hover{
+    background-color: rgb(223, 225, 223);
+  }
+  
+  /* responsive iphone */
+  
+  @media (min-width:1000px) and (max-width:1400px){
+  
+    .main12{
+      background-color:rgb(221, 224, 221);
+      padding-top: 3%;
+      padding-bottom: 3%;
+      background-image: url();
+    }
+    
+    .inn12{
+    
+    /* padding-top: 2%; */
+    background-color: rgb(241, 241, 241);
+    width: 25%;
+    height: 85vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    border-style: double;
+    margin-left: 40%;
+    margin-bottom: 7%;
+    margin-top: 5%;
+    border-radius: 10px;
+    filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+    
+    }
+    
+    .b9 img{
+      width: 70%;
+      border-radius: 80px;
+      margin-left: 47%;
+    }
+    
+    .b9{
+      display: block;
+      align-items: center;
+      text-align: center;
+      /* margin-left:2%; */
+      margin-top: 2%;
+      background-color:  rgb(241, 241, 241);
+      border-radius: 10px;
+      padding-top: 2%;
+      width: 11vw;
+      margin-left: 12%;
+    }
+    
+    .b9 input{
+     background-color:  rgb(74, 74, 74);
+     color: white;
+    }
+    
+    
+  
+    .delete11 button{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      width: 9vw;
+      height: 5vh;
+     
+      color: rgb(255, 255, 255);
+      border-radius: 8px;
+      background-color: #b0bac7;
+      border: transparent;
+    
+    }
+    .delete11{
+      display: flex;
+      column-gap: 7%;
+      margin-top: 8%;
+      margin-left: 10%;
+    }
+    
+    .icon10 input{
+      width: 18vw;
+      height: 7vh;
+      border-radius: 17px;
+      border: transparent;
+      gap: 4%;
+      margin-top: 6%;
+      margin-left: 13%;
+      color: grey;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    
+    .hr{
+      height: 20vh;
+      margin-top: 2%;
+    }
+    .icon10 input:hover{
+      background-color: rgb(223, 225, 223);
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  @media (min-width:500px) and (max-width:999px){
+  
+    .main12{
+      background-color:rgb(221, 224, 221);
+      padding-top: 3%;
+      padding-bottom: 3%;
+      background-image: url();
+    }
+    
+    .inn12{
+    
+    /* padding-top: 2%; */
+    background-color: rgb(241, 241, 241);
+    width: 43%;
+    height: 85vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    border-style: double;
+    margin-left: 30%;
+    margin-bottom: 7%;
+    margin-top: 5%;
+    border-radius: 10px;
+    filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+    
+    }
+    
+    .b9 img{
+      width: 100%;
+      border-radius: 80px;
+      margin-left: 90%;
+    }
+    
+    .b9{
+      display: block;
+      align-items: center;
+      text-align: center;
+      /* margin-left:2%; */
+      margin-top: 2%;
+      background-color:  rgb(241, 241, 241);
+      border-radius: 10px;
+      padding-top: 2%;
+      width: 11vw;
+      margin-left: 12%;
+    }
+  
+    
+  
+    .delete11 button{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      width: 14vw;
+      height: 5vh;
+     
+      color: rgb(255, 255, 255);
+      border-radius: 8px;
+      background-color: #b0bac7;
+      border: transparent;
+    
+    }
+    .delete11{
+      display: flex;
+      column-gap: 15%;
+      margin-top: 11%;
+      margin-left: 10%;
+    }
+    
+    .icon10 input{
+      width: 30vw;
+      height: 6vh;
+      border-radius: 17px;
+      border: transparent;
+      gap: 4%;
+      margin-top: 6%;
+      margin-left: 13%;
+      color: grey;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    
+    .hr{
+      height: 20vh;
+      margin-top: 2%;
+    }
+    .icon10 input:hover{
+      background-color: rgb(223, 225, 223);
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  @media (min-width:300px) and (max-width:499px){
+  
+    .main12{
+      background-color:rgb(221, 224, 221);
+      /* padding-top: 3% */
+      /* padding-bottom: 3%; */
+      background-image: url();
+      width: 64      px;
+      height: 0px;
+    }
+    
+    .inn12{
+    
+    /* padding-top: 2%; */
+    background-color: rgb(241, 241, 241);
+    width: 520%;
+    height: 95vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    border-style: double;
+    /* margin-left: 40%; */
+    margin-bottom: 7%;
+    margin-top: 5%;
+    border-radius: 10px;
+    filter: drop-shadow(rgb(238, 233, 233) 10px 10px 10px);
+    
+    }
+    
+    .b9 img{
+      width: 200%;
+      border-radius: 80px;
+      margin-left: 180%;
+    }
+    
+    .b9{
+      display: block;
+      align-items: center;
+      text-align: center;
+      /* margin-left:2%; */
+      margin-top: 2%;
+      background-color:  rgb(241, 241, 241);
+      border-radius: 10px;
+      padding-top: 2%;
+      width: 11vw;
+      /* margin-right: 12%; */
+    }
+    
+    .b9 input{
+     background-color:  rgb(74, 74, 74);
+     color: white;
+    }
+    
+    
+  
+    .delete11 button{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      width: 28vw;
+      height: 5vh;
+     /* margin-left: 2%; */
+      color: rgb(255, 255, 255);
+      border-radius: 8px;
+      background-color: #b0bac7;
+      border: transparent;
+    
+    }
+    .delete11{
+      display: flex;
+      column-gap: 15%;
+      margin-top: 8%;
+      margin-left: 17%;
+    }
+    
+    .icon10 input{
+      width: 65vw;
+      height: 7vh;
+      border-radius: 17px;
+      border: transparent;
+      gap: 4%;
+      margin-top: 6%;
+      margin-left: 13%;
+      color: grey;
+      font-size: 12px;
+      font-weight: 700;
+      display: block;
+    }
+    
+    .hr{
+      height: 20vh;
+      margin-top: 2%;
+    }
+    .icon10 input:hover{
+      background-color: rgb(223, 225, 223);
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  }
